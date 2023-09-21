@@ -1,5 +1,21 @@
+<<!DOCTYPE html>
 <html>
+ 
+<!-- Head Section content -->
+<head>
+ 
+    <!-- Page title -->
+    <title>BHARATH</title>
+</head>
+ 
+<!-- Body Section content -->
 <body>
-<h2>Hello World!</h2>
+ 
+    <!-- Used to display heading content -->
+    <h1>Welcome to ANDHRA PRADESH</h1>
+ 
+    <!-- Used to display paragrapg content -->
+    <p>INDIA IS GREAT FOR COMPUTER SCIENCE</p>
 </body>
+ 
 </html>
